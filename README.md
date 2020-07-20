@@ -1,6 +1,7 @@
 # docker私有镜像仓库管理界面
 ```
 1.解压导入docker
+docker load < docker-registry-manager.tar
 2.填写配置，输入要监控的镜像仓库地址
 3.执行apply.sh
 ```
